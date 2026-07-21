@@ -1,7 +1,7 @@
 # @nerisma/pi-auto-title
 
 [![npm](https://img.shields.io/npm/v/%40nerisma%2Fpi-auto-title?style=flat&label=npm)](https://www.npmjs.com/package/@nerisma/pi-auto-title)
-[![license](https://img.shields.io/npm/l/%40nerisma%2Fpi-auto-title?style=flat)](https://github.com/ItsNerisma/pi-auto-title/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/ItsNerisma/pi-auto-title?style=flat)](https://github.com/ItsNerisma/pi-auto-title/blob/main/LICENSE)
 
 > Auto-names your Pi sessions from their first prompt, using the cheapest available model — no config needed.
 
